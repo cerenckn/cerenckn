@@ -20,4 +20,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/cerenckn/cerenckn/blob/output/github-contribution-grid-snake.gif)
+https://github.com/cerenckn/cerenckn/blob/output/github-contribution-grid-snake.gif
