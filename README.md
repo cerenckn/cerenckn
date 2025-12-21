@@ -1,8 +1,19 @@
 <h1 align="center">Hi, I'm Ceren ÇEKEN</h1>
 <h3 align="center">A student of Computer Engineering from Turkey.</h3>
 
-# 💫 About Me:
-- 📚 I’m deeply interested in **AI**, **Analysis of Algorithms**, and **NLP**.<br>- 💻 I love coding in **C** and **Python**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=AI+Developer+%26+Deep+Learning+Enthusiast;Transforming+Data+into+Knowledge;Python+%26+C+Specialist;Building+the+Future+One+Commit+at+a+Time" alt="Typing SVG" />
+</div>
+
+---
+
+### 🚀 About Me
+
+- 🔭 **Currently working on:** Sign language video search systems and advanced Natural Language Processing (NLP).
+- 🌱 **Deepening my expertise in:** **Data Analysis & Processing**, **Deep Learning**, **Neural Networks**, **NLP**, and Computer Vision.
+- 💻 **I love coding in C and Python.**
+- 💬 **Ask me about:** **C**, **Python**, Data Structures, and Object-Oriented Programming (OOP).
+
+---
 
 
 ## 🌐 Socials:
@@ -14,6 +25,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=cerenckn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cerenckn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cerenckn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day" />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=cerenckn&icon=0&color=0)](https://visitcount.itsvg.in)
 
